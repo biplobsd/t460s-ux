@@ -14,7 +14,7 @@ Some useful change for lenovo thinkpad t460s
 When Ethernet cable plug in automatically connect with the PPPOE account.
 - Set up a connection with name `Broadband Connection` in windows setting > Network & internet > Dial-up
 - Download -> [win10/autoPPPoEconnectDIUPasswordUserRequired.xml](win10/autoPPPoEconnectDIUPasswordUserRequired.xml)
-- Replace <USER_NAME> and <PASSWORD> with yours
+- Replace `<USER_NAME>` and `<PASSWORD>` with yours
 - Open Task scheduler -> 
   - Change security options user to current user
   - Change trigger `At log on` user to current user
